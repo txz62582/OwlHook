@@ -1,4 +1,4 @@
-# SimpleInjector
+# OwlInjector
 This is a very simple LoadLibrary injector for the main project.
 
 *You may use your own injector if you desire.*
